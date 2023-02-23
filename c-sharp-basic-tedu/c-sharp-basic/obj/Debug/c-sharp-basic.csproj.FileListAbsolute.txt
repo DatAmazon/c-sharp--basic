@@ -1,0 +1,7 @@
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\bin\Debug\c-sharp-basic.exe.config
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\bin\Debug\c-sharp-basic.exe
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\bin\Debug\c-sharp-basic.pdb
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\obj\Debug\c-sharp-basic.csproj.AssemblyReference.cache
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\obj\Debug\c-sharp-basic.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\obj\Debug\c-sharp-basic.exe
+F:\c-sharp-basic\c-sharp-basic\c-sharp-basic\obj\Debug\c-sharp-basic.pdb

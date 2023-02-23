@@ -1,0 +1,8 @@
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb

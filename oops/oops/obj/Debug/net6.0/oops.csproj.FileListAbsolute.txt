@@ -1,0 +1,15 @@
+F:\c-sharp-basic\oops\oops\bin\Debug\net6.0\oops.exe
+F:\c-sharp-basic\oops\oops\bin\Debug\net6.0\oops.deps.json
+F:\c-sharp-basic\oops\oops\bin\Debug\net6.0\oops.runtimeconfig.json
+F:\c-sharp-basic\oops\oops\bin\Debug\net6.0\oops.dll
+F:\c-sharp-basic\oops\oops\bin\Debug\net6.0\oops.pdb
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.csproj.AssemblyReference.cache
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.AssemblyInfoInputs.cache
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.AssemblyInfo.cs
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.dll
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\refint\oops.dll
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.pdb
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\oops.genruntimeconfig.cache
+F:\c-sharp-basic\oops\oops\obj\Debug\net6.0\ref\oops.dll

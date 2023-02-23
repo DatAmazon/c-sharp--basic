@@ -1,0 +1,8 @@
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\bin\Debug\c_sharp_basic_than_trieu.exe.config
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\bin\Debug\c_sharp_basic_than_trieu.exe
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\bin\Debug\c_sharp_basic_than_trieu.pdb
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\obj\Debug\c_sharp_basic_than_trieu.csproj.AssemblyReference.cache
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\obj\Debug\c_sharp_basic_than_trieu.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\obj\Debug\c_sharp_basic_than_trieu.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\obj\Debug\c_sharp_basic_than_trieu.exe
+F:\c-sharp-basic\c_sharp_basic_than_trieu\c_sharp_basic_than_trieu\obj\Debug\c_sharp_basic_than_trieu.pdb

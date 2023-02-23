@@ -1,0 +1,7 @@
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\bin\Debug\FirstApp.exe.config
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\bin\Debug\FirstApp.exe
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\bin\Debug\FirstApp.pdb
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\obj\Debug\FirstApp.exe
+F:\c-sharp-basic\c_sharp_basic_than_trieu\FirstApp\obj\Debug\FirstApp.pdb

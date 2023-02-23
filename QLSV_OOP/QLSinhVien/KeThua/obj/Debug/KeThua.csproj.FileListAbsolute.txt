@@ -1,0 +1,8 @@
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\bin\Debug\KeThua.exe.config
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\bin\Debug\KeThua.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\bin\Debug\KeThua.pdb
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\obj\Debug\KeThua.csproj.AssemblyReference.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\obj\Debug\KeThua.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\obj\Debug\KeThua.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\KeThua\obj\Debug\KeThua.pdb

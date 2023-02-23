@@ -1,0 +1,8 @@
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\bin\Debug\ghide.exe.config
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\bin\Debug\ghide.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\bin\Debug\ghide.pdb
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\obj\Debug\ghide.csproj.AssemblyReference.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\obj\Debug\ghide.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\obj\Debug\ghide.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\obj\Debug\ghide.exe
+F:\c-sharp-basic\QLSV_OOP\QLSinhVien\ghide\obj\Debug\ghide.pdb

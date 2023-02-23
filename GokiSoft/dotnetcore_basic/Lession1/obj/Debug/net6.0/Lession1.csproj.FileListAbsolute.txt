@@ -1,0 +1,15 @@
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\bin\Debug\net6.0\Lession1.exe
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\bin\Debug\net6.0\Lession1.deps.json
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\bin\Debug\net6.0\Lession1.runtimeconfig.json
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\bin\Debug\net6.0\Lession1.dll
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\bin\Debug\net6.0\Lession1.pdb
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.csproj.AssemblyReference.cache
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.GeneratedMSBuildEditorConfig.editorconfig
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.AssemblyInfoInputs.cache
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.AssemblyInfo.cs
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.dll
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\refint\Lession1.dll
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.pdb
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\Lession1.genruntimeconfig.cache
+F:\c-sharp-basic\GokiSoft\dotnetcore_basic\Lession1\obj\Debug\net6.0\ref\Lession1.dll

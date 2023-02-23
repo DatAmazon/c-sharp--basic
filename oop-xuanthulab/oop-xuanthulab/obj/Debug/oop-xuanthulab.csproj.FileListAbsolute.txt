@@ -1,0 +1,8 @@
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\bin\Debug\oop-xuanthulab.exe.config
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\bin\Debug\oop-xuanthulab.exe
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\bin\Debug\oop-xuanthulab.pdb
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\obj\Debug\oop-xuanthulab.csproj.AssemblyReference.cache
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\obj\Debug\oop-xuanthulab.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\obj\Debug\oop-xuanthulab.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\obj\Debug\oop-xuanthulab.exe
+F:\c-sharp-basic\oop-xuanthulab\oop-xuanthulab\obj\Debug\oop-xuanthulab.pdb

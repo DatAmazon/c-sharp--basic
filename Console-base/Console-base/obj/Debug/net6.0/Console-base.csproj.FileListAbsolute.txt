@@ -1,0 +1,15 @@
+F:\c-sharp-basic\Console-base\Console-base\bin\Debug\net6.0\Console-base.exe
+F:\c-sharp-basic\Console-base\Console-base\bin\Debug\net6.0\Console-base.deps.json
+F:\c-sharp-basic\Console-base\Console-base\bin\Debug\net6.0\Console-base.runtimeconfig.json
+F:\c-sharp-basic\Console-base\Console-base\bin\Debug\net6.0\Console-base.dll
+F:\c-sharp-basic\Console-base\Console-base\bin\Debug\net6.0\Console-base.pdb
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.csproj.AssemblyReference.cache
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.GeneratedMSBuildEditorConfig.editorconfig
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.AssemblyInfoInputs.cache
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.AssemblyInfo.cs
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.dll
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\refint\Console-base.dll
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.pdb
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\Console-base.genruntimeconfig.cache
+F:\c-sharp-basic\Console-base\Console-base\obj\Debug\net6.0\ref\Console-base.dll

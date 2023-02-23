@@ -1,0 +1,8 @@
+F:\c-sharp-basic\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+F:\c-sharp-basic\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+F:\c-sharp-basic\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+F:\c-sharp-basic\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.AssemblyReference.cache
+F:\c-sharp-basic\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.SuggestedBindingRedirects.cache
+F:\c-sharp-basic\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.CoreCompileInputs.cache
+F:\c-sharp-basic\QLSV1\QLSV1\obj\Debug\QLSV1.exe
+F:\c-sharp-basic\QLSV1\QLSV1\obj\Debug\QLSV1.pdb
